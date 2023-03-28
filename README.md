@@ -10,7 +10,7 @@
 
 ## Talimatlar
 
-### Görev 1: Proje Kurulumu
+### Görev 1: Proje Kurulumu 
 
 Bu proje, create-react-app (CRA) kullanılarak oluşturuldu. Bu projenin çalışması için CRA'yı kurmanız gerekmeyecek. Projeyi uygun bağımlılıklarla kurmak için aşağıdaki adımları izleyin.
 
